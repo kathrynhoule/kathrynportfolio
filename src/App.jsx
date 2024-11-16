@@ -1,8 +1,9 @@
 import React from "react";
+import styles from './App.module.css';
 
 const App = () => {
      return (
-          <div><h1>Welcome to my portfolio!</h1></div>
+          <div className={styles.App}>Welcome to my portfolio!</div>
      );
 }
 
