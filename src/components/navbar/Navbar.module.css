@@ -36,6 +36,12 @@
      text-decoration: none;
 }
 
+@media screen and (min-width:901px) {
+     .menuBtn {
+          display: none;
+     }
+}
+
 @media screen and (max-width:900px) {
      .navbar {
           flex-direction: column;
@@ -69,4 +75,8 @@
           box-shadow: 0 0 4px 0 rgba(0,0,0,0.25);
      }
      
+     .menuOpen {
+          display: flex;
+          z-index: 1;
+     }
 }
