@@ -31,3 +31,26 @@
      -webkit-text-fill-color: transparent;
      -webkit-background-clip: text;
 }
+
+.description {
+     font-size: 30px;
+     font-family: var(--font-roboto);
+     margin-bottom: 52px;
+}
+
+.contactBtn {
+     text-decoration: none;
+     background-color: var(--color-main);
+     color: var(--color-text);
+     border-radius: 100px;
+     font-size: 30px;
+     font-weight: 600;
+     padding: 17px 26px;
+     box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
+}
+
+.headlineImg {
+     width: 50%;
+     z-index: 1;
+
+}
