@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import { getImageURL } from '../../utils';
 import styles from './Headline.module.css';
 
