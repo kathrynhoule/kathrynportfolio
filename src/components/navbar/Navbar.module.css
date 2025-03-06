@@ -64,19 +64,22 @@
      }
 
      .menuItems {
-          display: none;
+          visibility: hidden;
+          opacity: 0;
           flex-direction: column;
           align-items: center;
           gap: 13px;
           border-radius: 10px;
-          background: rbg(25, 55, 109);
-          background: linear-gradient(0deg, rbga(25, 55, 109, 0.2) 0%, rbga(25, 55, 109, 1) 100%);
+          background: linear-gradient(0deg, rgba(25, 55, 109, 0.2) 0%, rgba(25, 55, 109, 1) 100%);
           padding: 24px 23px;
           box-shadow: 0 0 4px 0 rgba(0,0,0,0.25);
+          transition: opacity 0.3s ease-in-out, visibility 0.3s ease-in-out;
      }
      
      .menuOpen {
           display: flex;
-          z-index: 1;
+          visibility: visible;
+          opacity: 1;
+          z-index: 5;
      }
 }
