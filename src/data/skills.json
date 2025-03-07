@@ -1,34 +1,38 @@
 [
      {
-       "title": "HTML",
-       "imageSrc": "skills/html.png"
+          "title": "HTML",
+          "imageSrc": "skills/placeholder.png"
      },
      {
-       "title": "CSS",
-       "imageSrc": "skills/css.png"
+          "title": "CSS",
+          "imageSrc": "skills/placeholder.png"
      },
      {
-       "title": "React",
-       "imageSrc": "skills/react.png"
+          "title": "React",
+          "imageSrc": "skills/placeholder.png"
      },
      {
-       "title": "Node",
-       "imageSrc": "skills/node.png"
+          "title": "Node",
+          "imageSrc": "skills/placeholder.png"
      },
      {
-       "title": "MySQL",
-       "imageSrc": "skills/mysql.png"
+          "title": "MySQL",
+          "imageSrc": "skills/placeholder.png"
      },
      {
-       "title": "Java",
-       "imageSrc": "skills/java.png"
+          "title": "Java",
+          "imageSrc": "skills/placeholder.png"
      },
      {
           "title": "Python",
-          "imageSrc": "skills/python.png"
+          "imageSrc": "skills/placeholder.png"
      },
      {
-       "title": "Figma",
-       "imageSrc": "skills/figma.png"
+          "title": "Figma",
+          "imageSrc": "skills/placeholder.png"
+     },
+     {
+          "title": "Tiled",
+          "imageSrc": "skills/placeholder.png"
      }
-   ]
+]
