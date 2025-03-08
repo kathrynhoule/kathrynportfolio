@@ -1,12 +1,15 @@
 :root {
      /* colours */
-     --color-text: #fff;
-     --color-main: #576cbc;
-     --color-secondary: #19376d;
-     --color-dark: #0b2447;
-     --color-background: #04152d;
+     --color-text: #FFFBFF;
+     --color-main: #A23256;
+     --color-secondary: #6C223A;
+     --color-dark: #361124;
+     --color-background: #160516;
+     --color-bright: ##f9055d;
+     --color-muted: ##b58289;
+     --color-accent: ##6cffb1;
 
      /* fonts */
      --font-roboto: 'Roboto Mono';
-     --font-quicksand: "Quicksand", serif;
+     --font-quicksand: 'Quicksand', sans-serif;
 }
