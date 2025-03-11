@@ -2,6 +2,8 @@ import React from 'react';
 import styles from './Contact.module.css';
 import { getImageURL } from '../../utils';
 
+// need to change this section in the future
+// don't love the layout right now, it looks very unlike anything else on the page
 const Contact = () => {
   return (
     <footer id="contact" className={styles.container}>
