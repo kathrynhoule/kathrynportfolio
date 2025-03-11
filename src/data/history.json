@@ -1,0 +1,26 @@
+[
+     {
+          "role": "Frontend & Backend Developer",
+          "organisation": "AgiLearning",
+          "startDate": "June, 2024",
+          "endDate": "October, 2024",
+          "experiences": ["Designed the UI", "Built the frontend", "Assisted with developing the backend"],
+          "imageSrc": "history/placeholder.png"
+     },
+     {
+          "role": "Freelance",
+          "organisation": "Placeholder",
+          "startDate": "Placeholder",
+          "endDate": "Placeholder",
+          "experiences": ["Placeholder", "Placeholder"],
+          "imageSrc": "history/placeholder.png"
+     },
+     {
+          "role": "Indie Game Developer",
+          "organisation": "Placeholder",
+          "startDate": "Placeholder",
+          "endDate": "Placeholder",
+          "experiences": ["Placeholder", "Placeholder"],
+          "imageSrc": "history/placeholder.png"
+     }
+]

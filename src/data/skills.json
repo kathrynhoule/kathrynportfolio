@@ -1,0 +1,38 @@
+[
+     {
+          "title": "HTML",
+          "imageSrc": "skills/placeholder.png"
+     },
+     {
+          "title": "CSS",
+          "imageSrc": "skills/placeholder.png"
+     },
+     {
+          "title": "React",
+          "imageSrc": "skills/placeholder.png"
+     },
+     {
+          "title": "Node",
+          "imageSrc": "skills/placeholder.png"
+     },
+     {
+          "title": "MySQL",
+          "imageSrc": "skills/placeholder.png"
+     },
+     {
+          "title": "Java",
+          "imageSrc": "skills/placeholder.png"
+     },
+     {
+          "title": "Python",
+          "imageSrc": "skills/placeholder.png"
+     },
+     {
+          "title": "Figma",
+          "imageSrc": "skills/placeholder.png"
+     },
+     {
+          "title": "Tiled",
+          "imageSrc": "skills/placeholder.png"
+     }
+]
